@@ -1,0 +1,8 @@
+# Directories #
+.vs/
+obj/
+__pycache__/
+
+# Files #
+*.suo
+*.user
