@@ -31,7 +31,7 @@ BeautifulSoup 4
 
 ## The result:
 
-The result is a .csv file for the current status of the parking lots: [2018-05-13T19-02-26-141897.csv](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/tree/master/savedData/2018-05-13T19-02-26-141897.csv).
+The result is a .csv file for the current status of the games: [2018-05-13T19-02-26-141897.csv](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/tree/master/savedData/2018-05-13T19-02-26-141897.csv).
 
 Change history
 --------------
