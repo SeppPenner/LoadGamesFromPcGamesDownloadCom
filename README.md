@@ -1,6 +1,6 @@
 # LoadGamesFromPcGamesDownloadCom
 
-LoadGamesFromPcGamesDownloadCom is written and tested in Python 3.6.5. Its purpose is to load all posts in a structured way from https://pcgames-download.com/.
+LoadGamesFromPcGamesDownloadCom is written and tested in Python 3.7.1. Its purpose is to load all posts in a structured way from https://pcgames-download.com/.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/che88x6i83lacy0x?svg=true)](https://ci.appveyor.com/project/SeppPenner/loadgamesfrompcgamesdownloadcom)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/issues)
@@ -22,7 +22,7 @@ Loading the data might take a while :hourglass_flowing_sand:, so have a :coffee:
 ## How do you start the project:
 
 ```python
-Python LoadGames.py
+python LoadGames.py
 ```
 
 ## What else do you need:
