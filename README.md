@@ -1,12 +1,14 @@
 # LoadGamesFromPcGamesDownloadCom
 
-LoadGamesFromPcGamesDownloadCom is written and tested in Python 3.7.1. Its purpose is to load all posts in a structured way from https://pcgames-download.com/.
+LoadGamesFromPcGamesDownloadCom is written and tested in Python 3.7.3. Its purpose is to load all posts in a structured way from https://pcgames-download.com/.
+The project is no longer needed because the website went down (Probably due to DMCA takedown).
 
 [![Build status](https://ci.appveyor.com/api/projects/status/che88x6i83lacy0x?svg=true)](https://ci.appveyor.com/project/SeppPenner/loadgamesfrompcgamesdownloadcom)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/LoadGamesFromPcGamesDownloadCom/badge.svg)](https://snyk.io/test/github/SeppPenner/LoadGamesFromPcGamesDownloadCom) 
 
 ## How does it work:
 
