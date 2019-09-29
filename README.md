@@ -1,7 +1,8 @@
 # LoadGamesFromPcGamesDownloadCom
 
-LoadGamesFromPcGamesDownloadCom is written and tested in Python 3.7.3. Its purpose is to load all posts in a structured way from https://pcgames-download.com/.
+LoadGamesFromPcGamesDownloadCom is written and tested in Python 3.7.4. Its purpose is to load all posts in a structured way from https://pcgames-download.com/.
 The project is no longer needed because the website went down (Probably due to DMCA takedown).
+The last state of the webiste can be found under http://web.archive.org/web/20181231044556/https://pcgames-download.com/.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/che88x6i83lacy0x?svg=true)](https://ci.appveyor.com/project/SeppPenner/loadgamesfrompcgamesdownloadcom)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/issues)
@@ -31,6 +32,11 @@ python LoadGames.py
 
 BeautifulSoup 4
 
+## Install all required pip package dependencies with
+```python
+pip install -r requirements.txt
+```
+
 ## The result:
 
 The result is a .csv file for the current status of the games: [2018-05-13T19-02-26-141897.csv](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/tree/master/savedData/2018-05-13T19-02-26-141897.csv).
@@ -38,4 +44,5 @@ The result is a .csv file for the current status of the games: [2018-05-13T19-02
 Change history
 --------------
 
+* **Version 1.0.0.0 (2019-09-29)** : Updated python version, updated requirements.
 * **Version 1.0.0.0 (2018-05-13)** : 1.0 release.
