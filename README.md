@@ -8,7 +8,7 @@ The last state of the webiste can be found under http://web.archive.org/web/2018
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/LoadGamesFromPcGamesDownloadCom.svg)](https://github.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/LoadGamesFromPcGamesDownloadCom/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/LoadGamesFromPcGamesDownloadCom/badge.svg)](https://snyk.io/test/github/SeppPenner/LoadGamesFromPcGamesDownloadCom) 
 
 ## How does it work:
